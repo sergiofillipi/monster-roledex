@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sergiofillipi.github.io/monster-roledex/static/css/main.47d47b00.chunk.css",
+    "main.js": "/sergiofillipi.github.io/monster-roledex/static/js/main.7821611f.chunk.js",
+    "main.js.map": "/sergiofillipi.github.io/monster-roledex/static/js/main.7821611f.chunk.js.map",
+    "runtime-main.js": "/sergiofillipi.github.io/monster-roledex/static/js/runtime-main.01a4cf4d.js",
+    "runtime-main.js.map": "/sergiofillipi.github.io/monster-roledex/static/js/runtime-main.01a4cf4d.js.map",
+    "static/js/2.37ad07d3.chunk.js": "/sergiofillipi.github.io/monster-roledex/static/js/2.37ad07d3.chunk.js",
+    "static/js/2.37ad07d3.chunk.js.map": "/sergiofillipi.github.io/monster-roledex/static/js/2.37ad07d3.chunk.js.map",
+    "index.html": "/sergiofillipi.github.io/monster-roledex/index.html",
+    "precache-manifest.78b8e17ddfd96b0b2cc6a1bb170b3770.js": "/sergiofillipi.github.io/monster-roledex/precache-manifest.78b8e17ddfd96b0b2cc6a1bb170b3770.js",
+    "service-worker.js": "/sergiofillipi.github.io/monster-roledex/service-worker.js",
+    "static/css/main.47d47b00.chunk.css.map": "/sergiofillipi.github.io/monster-roledex/static/css/main.47d47b00.chunk.css.map",
+    "static/js/2.37ad07d3.chunk.js.LICENSE.txt": "/sergiofillipi.github.io/monster-roledex/static/js/2.37ad07d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a4cf4d.js",
+    "static/js/2.37ad07d3.chunk.js",
+    "static/css/main.47d47b00.chunk.css",
+    "static/js/main.7821611f.chunk.js"
+  ]
+}
